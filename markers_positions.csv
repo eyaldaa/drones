@@ -1,0 +1,5 @@
+markerId,markerX,markerY,markerZ,markerSize,markerStartSeconds,markerDurationSeconds,markerColorRed,markerColorGreen,markerColorBlue,markerColorOpacity
+0,2.5,2.5,-10,20,4.5,12,1,1,0,0.7
+1,7.5,-2.5,-10,20,6.7,12,1,0,1,0.3
+2,5,2.5,-10,20,4.5,20,1,1,0,0.7
+3,7.5,7,-10,20,6.7,20,1,0,1,0.3
